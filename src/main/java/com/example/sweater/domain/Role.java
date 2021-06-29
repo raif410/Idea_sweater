@@ -1,2 +1,5 @@
-package com.example.sweater.domain;public class Role {
+package com.example.sweater.domain;
+
+public enum Role {
+    USER;
 }

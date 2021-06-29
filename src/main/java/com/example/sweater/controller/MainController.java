@@ -1,4 +1,4 @@
-package com.example.sweater;
+package com.example.sweater.controller;
 
 import com.example.sweater.domain.Message;
 import com.example.sweater.repos.MessageRepo;
@@ -16,7 +16,7 @@ import java.util.Map;
 public class DemoApplication {*/
 
 @Controller
-public class GreetingController {
+public class MainController {
     @Autowired
     private MessageRepo messagesRepo;
 

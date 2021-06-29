@@ -127,5 +127,13 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.8" level="project" />
     <orderEntry type="library" name="Maven: org.aspectj:aspectjrt:1.9.6" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.31" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-security:2.5.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:5.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:5.5.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.springframework.security:spring-security-test:5.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:5.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:5.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-bom:5.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.session:spring-session-bom:2021.0.1" level="project" />
   </component>
 </module>
